@@ -2,7 +2,7 @@ flc
 
 <?php
 /*
-   iphptogetimg
+   photogetimg
      pgiflc.php  -  batch photo downloader via flickr (pgiflc)
      Ver.1.0 (UTF-8)
      License: GNU General Public License v2 or later
