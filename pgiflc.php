@@ -7,6 +7,11 @@ flc
      Ver.1.0 (UTF-8)
      License: GNU General Public License v2 or later
      License URI: http://www.gnu.org/licenses/gpl-2.0.html
+     
+     いや、Flickerの場合はAPIで便利なのがあるから・・となった・・
+     https://www.flickr.com/services/api/explore/flickr.photosets.getPhotos
+     ので・・ここの「Photoset ID」・・例えば「72157700439012015 - YokohamaImmigrationMuseum」などを気軽に扱えるようにしたいな・・
+     
  */
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
